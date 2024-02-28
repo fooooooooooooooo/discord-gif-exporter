@@ -1,6 +1,6 @@
 {
-  "name": "discordgifpogger",
-  "version": "1.0.0",
+  "name": "discord-gif-exporter",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

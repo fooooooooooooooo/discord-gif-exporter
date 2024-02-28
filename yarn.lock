@@ -242,9 +242,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discordgifpogger@workspace:.":
+"discord-gif-exporter@workspace:.":
   version: 0.0.0-use.local
-  resolution: "discordgifpogger@workspace:."
+  resolution: "discord-gif-exporter@workspace:."
   dependencies:
     "@swc/core": "npm:^1.4.2"
     "@types/node": "npm:^20.11.21"
