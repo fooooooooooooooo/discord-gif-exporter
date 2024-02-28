@@ -1,0 +1,5 @@
+.yarn/install-state.gz
+node_modules/
+
+*.txt
+settings.json
